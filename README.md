@@ -1,1 +1,3 @@
 # Colour-detection-using-Kmeans-
+
+This project is based on Color Detection using K-Means Clustering and is implemented in Python
